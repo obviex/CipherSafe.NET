@@ -45,7 +45,7 @@ Follow [us on Twitter](http://twitter.com/obviex).
 It depends on an application. If you are currently using VBScript, switch to PowerShell (it offers several ways of protecting sensitive data). For .NET applications, use the .NET Framework's aspnet_regiis.exe utility (here is a nice wrapper and samples that can make it easier: [Crypt.config.bat](https://github.com/alekdavis/Crypt.config.bat)).
 
 ### What if we have a question that has not been answered?
-Open an issue here.
+Open an issue [here](../../issues).
 
 ### What if our question is private?
 Send us an email: obviex _at_ gmail _dot_ com.
