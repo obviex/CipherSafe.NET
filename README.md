@@ -25,9 +25,6 @@ You cannot use online registration, but we released a corporate license file for
 ### Can I use the public license file to register an older version of the product since we do not have a more recent license?
 Yes.
 
-### Will I get in trouble?
-No.
-
 ### Can I use the latest version of the product even if I do not have the latest license?
 Yes.
 
