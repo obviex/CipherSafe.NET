@@ -2,7 +2,6 @@
 This reporsitory is intended for CipherSafe.NET users who have not transitioned to other technologies after the product end-of-life date.
 
 ## Frequently asked question (FAQs)
-
 The following is the list of frequently asked questions answers to which should guide you through the transition.
 
 ### What is the end-of-life date?
