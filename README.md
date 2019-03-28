@@ -32,8 +32,8 @@ No.
 ### Where can we get the public license file?
 The publci license file comes along with the [application distribution](../../releases).
 
-### Doesn't the license file need an activation code?
-Yes, and here it is: 0123456789ABCDEF
+### What is the activation code (for the public license file)?
+0123456789ABCDEF
 
 ### Can anyone use this activation code?
 Yes.
