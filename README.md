@@ -14,22 +14,22 @@ We released CipherSafe.NET 16 years ago to address the limitations of the .NET F
 ### Will obviex.com be decomissioned?
 Yes.
 
-### Where can we get the application distribution files?
+### Where can I get the application distribution files?
 [Here](../../releases).
 
 ### How long the distribution files be available?
 As long as GitHub allows hosting.
 
-### With the http://obviex.com website down, how can we register the product?
+### With the http://obviex.com website down, how can I register the product?
 You cannot use online registration, but we released a corporate license file for the latest version of CipherSafe.NET (Enterprise Edition) to public which can be used to register any version or edition of the product offline.
 
-### Can we use the public license file to register an older version of the product since we do not have a more recent license?
+### Can I use the public license file to register an older version of the product since we do not have a more recent license?
 Yes.
 
-### Will we get in trouble?
+### Will I get in trouble?
 No.
 
-### Where can we get the public license file?
+### Where can I get the public license file?
 The publci license file comes along with the [application distribution](../../releases).
 
 ### What is the activation code (for the public license file)?
@@ -38,13 +38,16 @@ The publci license file comes along with the [application distribution](../../re
 ### Can anyone use this activation code?
 Yes.
 
-### How do we get the updates about the product end-of-life process?
+### How do I get the updates about the product end-of-life process?
 Follow [us on Twitter](http://twitter.com/obviex).
 
-### Which technology should we use to protect application secrets?
+### Which technology should I use to protect application secrets?
 It depends on an application. If you are currently using VBScript, switch to PowerShell (it offers several ways of protecting sensitive data). For .NET applications, use the .NET Framework's aspnet_regiis.exe utility (here is a nice wrapper and samples that can make it easier: [Crypt.config.bat](https://github.com/alekdavis/Crypt.config.bat)).
 
-### What if we have a question that has not been answered?
+### Where can I find the code samples?
+[Here](https://github.com/obviex/Samples).
+
+### What if I have a question that has not been answered?
 Open an issue [here](../../issues).
 
 ### What if our question is private?
