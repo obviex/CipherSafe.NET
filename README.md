@@ -52,5 +52,5 @@ It depends on an application. If you are currently using VBScript, switch to Pow
 ### What if I have a question that has not been answered?
 Open an issue [here](../../issues).
 
-### What if our question is private?
+### What if my question is private?
 Send us an email: obviex _at_ gmail _dot_ com.
