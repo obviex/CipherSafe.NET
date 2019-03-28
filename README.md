@@ -28,6 +28,12 @@ Yes.
 ### Will I get in trouble?
 No.
 
+### Can I use the latest version of the product even if I do not have the latest license?
+Yes.
+
+### Will I get in trouble?
+No.
+
 ### Where can I get the public license file?
 The publci license file comes along with the [application distribution](../../releases).
 
