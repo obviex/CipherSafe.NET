@@ -32,7 +32,7 @@ Yes.
 No.
 
 ### Where can I get the public license file?
-The publci license file comes along with the [application distribution](../../releases).
+The public license file comes along with the [application distribution](../../releases).
 
 ### What is the activation code (for the public license file)?
 0123456789ABCDEF
